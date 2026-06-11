@@ -1,0 +1,6 @@
+{
+  "name": "CREDIVER",
+  "description": "Le Passeport ESG de Confiance - Financez votre croissance grâce à vos bonnes pratiques.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
